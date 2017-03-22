@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c64832</color>
+    <color name="colorPrimaryDark">#b30c03</color>
+    <color name="colorAccent">#db9600</color>
+    <color name="colorGray">#dddddd</color>
+    <color name="white_overlay_8x">#000000</color>
+    <color name="white">#ffffff</color>
+
+
+
+
+    <color name="colorAboutBackground">#ab201e</color>
+    <color name="colorAboutPrimary">#9e2020</color>
+    <color name="colorAboutPrimaryDark">#9e2020</color>
+    <color name="colorAboutAccent">#9e2020</color>
+
+    <color name="colorDetailBackground">#191d50</color>
+    <color name="colorDetailPrimary">#191d50</color>
+    <color name="colorDetailPrimaryDark">#191d50</color>
+    <color name="colorDetailAccent">#191d50</color>
+
+    <color name="slide_1">#4f91ff</color>
+    <color name="slide_2">#fb9c25</color>
+    <color name="slide_3">#D53D25</color>
+    <color name="slide_4">#eac100</color>
+</resources>
